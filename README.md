@@ -23,7 +23,7 @@
 # 📂 Cloud Storage
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
-![TeraBox](https://img.shields.io/badge/Terabox-%23D90007.svg?style=for-the-badge&logo=TeraBox&logoColor=white)
+![TeraBox](https://img.shields.io/badge/Terabox-%9999FF.svg?style=for-the-badge&logo=TeraBox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 
