@@ -31,7 +31,7 @@
 ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![LiteCoin](https://img.shields.io/badge/LiteCoin-bbc9db?style=for-the-badge&logo=litetoin&logoColor=white)
+![LiteCoin](https://img.shields.io/badge/LiteCoin-bbc9db?style=for-the-badge&logo=litecoin&logoColor=white)
 ![TCG 2.0](https://img.shields.io/badge/TCG-000?style=for-the-badge&logo=TCG&logoColor=white)
 
 # 💾 Databases
