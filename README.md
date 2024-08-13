@@ -23,7 +23,7 @@
 # 📂 Cloud Storage
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
-![TeraBox](https://img.shields.io/badge/Terabox-%23D90007.svg?style=for-the-badge&logo=TeraBox&logoColor=white)
+![TeraBox](https://img.shields.io/badge/Terabox-4d67a5.svg?style=for-the-badge&logo=TeraBox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 
@@ -31,8 +31,8 @@
 ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![LiteCoin](https://img.shields.io/badge/LiteCoin-000?style=for-the-badge&logo=titetoin&logoColor=white)
-![TCG](https://img.shields.io/badge/TCG-000?style=for-the-badge&logo=TCG&logoColor=white)
+![LiteCoin](https://img.shields.io/badge/LiteCoin-bbc9db?style=for-the-badge&logo=litetoin&logoColor=white)
+![TCG 2.0](https://img.shields.io/badge/TCG-000?style=for-the-badge&logo=TCG&logoColor=white)
 
 # 💾 Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -55,7 +55,7 @@
 # 💻 IDEs/Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SublimeText](https://img.shields.io/badge/SublimeText-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=SublimeText&labelColor=crimson)
+![SublimeText](https://img.shields.io/badge/Sublime%20Text-ff8000.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white&color=ff8000&labelColor=crimson)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 # 🎛️ Operating System
