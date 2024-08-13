@@ -61,6 +61,7 @@
 # 🎛️ Operating System
 ![Windows All Version](https://img.shields.io/badge/platform-windows-0078D6?style=for-the-badge&logo=platform-windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/IOS-0073ff?style=for-the-badge&logo=apple&logoColor=white)
 ![MacOS](https://img.shields.io/badge/platform-macos-268BEE?style=for-the-badge&logo=platform-macos&logoColor=white)
 ![Linux](https://img.shields.io/badge/platform-linux-FCC624?style=for-the-badge&logo=platform-linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/platform-ubuntu-E95420?style=for-the-badge&logo=platform-ubuntu&logoColor=white)
